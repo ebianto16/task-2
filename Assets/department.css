@@ -1,0 +1,663 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: "Volkhov", serif;
+  }
+.with{
+    width: 100%;
+    height: 25px;
+    background-color: #40A8E4;
+    display: flex;  
+    justify-content: center; 
+    align-items: center; 
+}
+.hit{
+    width: 30%;
+    font-size: 12px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.bit{
+width: 70%;
+font-size: 12px;
+color: white;
+display: flex;
+justify-content: end;
+align-items:center;
+gap: 10px;
+}
+.family{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.husband img{
+    width: 40%;
+    height: 100px;
+}
+.husband{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    width: 30%;
+    height: 20%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 20px;
+}
+.icons:hover{
+    color:black;
+}
+li a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+ul{
+    width: 100%;
+    height: 80px;
+    font-size: 16px;
+    font-weight: 700px;
+    color: #BCB5B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.animal{
+    width:100%;
+    height: 500px;
+    display: flex;
+    position: relative;
+}
+.bird{
+    width: 100%;
+    height: 100%;
+    background-color: #22689E;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.birds{
+    width: 80%;
+    height: 80%;
+} 
+.h4{
+    width: 60%;
+    height: 20%;
+    font-size: 40px;  
+}
+.papa{
+    width: 100%;
+    height: 20%;
+    font-size: 18px;
+}
+.wild{
+    width: 100%;
+    height: 100%;
+}
+.wild img{
+    width: 100%;
+    height: 100%;
+}
+.domestic{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 90%;
+}
+.product{
+    width: 30%;
+    height: 90%;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dp{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eb{
+    width: 20%;
+    height: 65px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h3{
+    width: 60%;
+    height: 65px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bet{
+    width: 80%;
+    height: 60px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yt{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ty{
+    width: 60%;
+    height: 40px;
+    font-size: 12px;
+    color: #FFFFFF;
+    background-color:#379CD6;
+    border: 2px solid white;
+  
+}
+.zulu{
+    width: 100%;
+    height: 200px;
+}
+.teacher{
+    width: 100%;
+    height: 500px;
+    background-color: #22689E;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student{
+    width: 62%;
+    height: 100%;
+}
+.student img{
+    width: 90%;
+    height: 500px;
+}
+.te{
+    width: 50%;
+    height: 70%;
+}
+.h1{
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.st{
+    width: 100%;
+    height: 40%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amma{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+}
+.appa{
+    width: 30%;
+    height: 42%;
+    background-color: #379CD6;
+    position: absolute;
+    top: 1700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.son{
+   width: 70%;
+   height: 80%;
+   color: #FFFFFF;
+}
+.boys{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.h6{
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dog{
+    width: 100%;
+    height: 30%;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but{
+    width: 52%;
+    height: 30px;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    border: 2px solid white;
+}
+.house{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chair{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.dress{
+    width: 50%;
+    height:50%;
+}
+.h5{
+    font-size: 15px;
+    color: #666666;
+}
+.siri{
+    width: 80%;
+    height: 50%;
+    font-size: 27px;
+}
+.seri{
+    width: 90%;
+    height: 30%;
+    font-size: 15px;
+}
+.teacher-1{
+    width: 100%;
+    height: 500px;
+    background-color: #22689E;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student-1{
+    width: 62%;
+    height: 100%;
+}
+.student-1 img{
+    width: 90%;
+    height: 500px;
+}
+.te-1{
+    width: 50%;
+    height: 70%;
+}
+.h1-1{
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.st-1{
+    width: 100%;
+    height: 40%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h41{
+    width: 100%;
+    height: 70px;
+    font-size: 25px;
+}
+.apps{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.link{
+    width: 30%;
+    height: 50%;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 2700px;
+}
+.download{
+    width: 80%;
+    height: 80%;
+}
+.world{
+    width: 100%;
+    height: 70px;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.person{
+    width: 100%;
+    height: 100px;
+}
+.info{
+    width: 100%;
+    height: 50px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.docu{
+     width: 100%;
+     height: 60px;
+     font-size: 15px;
+     display: flex;
+     justify-content: center;   
+}
+.heading{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point{
+    width: 60%;
+    height: 60%;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    border: 2px solid white;
+}
+.teacher{
+    width: 100%;
+    height: 500px;
+    background-color: #22689E;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student{
+    width: 62%;
+    height: 100%;
+}
+.student img{
+    width: 90%;
+    height: 500px;
+}
+.te{
+    width: 50%;
+    height: 70%;
+}
+.h1{
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.st{
+    width: 100%;
+    height: 40%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.as{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.where{
+    width: 25%;
+    height: 300px;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 3900px;
+   
+}
+.wow{
+  width: 80%;
+  height: 100%;
+}
+.eh{
+    width: 100%;
+    height: 70px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.haah{
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yeah{
+    width: 100%;
+    height: 70px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yes{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.no{
+    width: 80%;
+    height: 40px;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    border: 2px solid white;
+}
+.intel{
+    width: 100%;
+    height: 250px;
+    background-color:#2388C2 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.core{
+    width: 80%;
+    height: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.geforce{
+    width: 90%;
+    height: 80%;
+}
+.inside{
+    width: 100%;
+    height: 2px;
+    background-color: #FFFFFF;
+}
+.dia{
+    width: 100%;
+    height: 60%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i5{
+    width: 70%;
+    height: 50%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i4{
+    width: 50%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.i1{
+    width: 100%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF; 
+}
+.i3{
+    width: 70%;
+    height: 70%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.i2{
+    width: 60%;
+    height: 20%;
+    color: #FFFFFF;
+    font-size: 17px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.one-1{
+width: 100%;
+height: 30px;
+background-color: #2183B8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.two-2{
+width: 100%;
+height: 70%;
+}
+.three-3{
+width: 40%;
+height: 40%;
+font-size: 10px;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: baseline;
+}
+.four-4{
+    width: 100%;
+    height: 40%;
+    font-size: 10px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 50px;
+}
+@media(max-width:1200px){
+    .animal{
+        width: 100%;
+        height: 500px;
+        display: block;
+    }
+    .h4{
+        font-size: 50px;
+    }
+    .papa{
+        font-size: 30px;
+    }
+    .domestic{
+        width: 100%;
+        height: 500px;
+    }
+    .product{
+        width: 90%;
+        height: 80%;
+    }
+    .eb{
+        font-size: 60px;
+    }
+    .h3{
+        font-size: 30px;
+    }
+    .bet{
+        width: 85%;
+        font-size: 27px;
+    }
+    .yt{
+        width: 60%;
+        height: 80%;
+    }
+    .ty{
+        width: 80%;
+        height: 40%;
+    }
+    .zulu{
+        height: 900px;
+    }
+    .table{
+        height: 700px;
+    }
+    .appa{
+        display: block;
+        top: 2500px;
+    }
+   
+}

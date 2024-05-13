@@ -1,0 +1,453 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: "Volkhov", serif;
+  }
+.with{
+    width: 100%;
+    height: 25px;
+    background-color: #40A8E4;
+    display: flex;  
+    justify-content: center; 
+    align-items: center; 
+}
+.hit{
+    width: 30%;
+    font-size: 12px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.bit{
+width: 70%;
+font-size: 12px;
+color: white;
+display: flex;
+justify-content: end;
+align-items:center;
+gap: 10px;
+}
+.family{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.husband img{
+    width: 40%;
+    height: 100px;
+}
+.husband{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    width: 30%;
+    height: 20%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 20px;
+}
+.icons:hover{
+    color:black;
+}
+li a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+ul{
+    width: 100%;
+    height: 80px;
+    font-size: 16px;
+    font-weight: 700px;
+    color: #BCB5B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.teacher{
+    width: 100%;
+    height: 500px;
+    background-color: #22689E;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.student{
+    width: 62%;
+    height: 100%;
+}
+.student img{
+    width: 90%;
+    height: 500px;
+}
+.te{
+    width: 50%;
+    height: 70%;
+}
+.h1{
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.st{
+    width: 100%;
+    height: 40%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.amma{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+}
+.appa{
+    width: 30%;
+    height: 42%;
+    background-color: #379CD6;
+    position: absolute;
+    top: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.son{
+   width: 70%;
+   height: 80%;
+   color: #FFFFFF;
+}
+.boys{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.h6{
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dog{
+    width: 100%;
+    height: 30%;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but{
+    width: 52%;
+    height: 30px;
+    background-color: #379CD6;
+    color: #FFFFFF;
+}
+.house{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chair{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.dress{
+    width: 50%;
+    height:50%;
+}
+.h5{
+    font-size: 15px;
+    color: #666666;
+}
+.siri{
+    width: 80%;
+    height: 50%;
+    font-size: 27px;
+}
+.seri{
+    width: 90%;
+    height: 30%;
+    font-size: 15px;
+    color: #666666;
+}
+.six{
+    width: 100%;
+    height: 500px;
+    background-color: #2388C2;
+    display: flex;
+}
+.five{
+    width: 65%;
+    height: 100%;
+    background-color: #FCFCFC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    width: 80%;
+    height: 80%;
+
+}
+.three{
+    width: 100%;
+    height: 2px;
+    background-color:#E1E1E1;
+}
+.h2{
+    width: 80%;
+    height: 50px;
+    color: #666696;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.sara{
+    width: 50%;
+    height: 30px;
+    color: #91AAC8;
+}
+.two{
+    width: 30%;
+    height: 100%;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h3{
+    width: 80%;
+    height: 60px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bet{
+    width: 80%;
+    height: 80%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.eb{
+    width: 80%;
+    height: 80px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lap{
+    width: 100%;
+    height: 500spx;
+    background-color:#379CD6 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tab{
+    width: 35%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    width: 80%;
+    height: 70%;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.h31{
+    width: 100%;
+    height: 20%;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bett{
+    width: 70%;
+    height: 60%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottle{
+    font-size: 50px;
+}
+.up{
+    width: 80%;
+    height: 550px;
+    background-color:#FCFCFC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.down{
+    width: 80%;
+    height: 80%;
+}
+.there{
+    width: 80%;
+    height: 2px;
+    background-color: #E1E1E1;
+}
+.six-1{
+    width: 100%;
+    height: 500px;
+    background-color: #5FB4E4;
+    display: flex;
+}
+
+.intel{
+    width: 100%;
+    height: 250px;
+    background-color:#2388C2 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.core{
+    width: 80%;
+    height: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.geforce{
+    width: 90%;
+    height: 80%;
+}
+.inside{
+    width: 100%;
+    height: 2px;
+    background-color: #FFFFFF;
+}
+.dia{
+    width: 100%;
+    height: 60%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i5{
+    width: 70%;
+    height: 50%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i4{
+    width: 50%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.i1{
+    width: 100%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF; 
+}
+.i3{
+    width: 70%;
+    height: 70%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.i2{
+    width: 60%;
+    height: 20%;
+    color: #FFFFFF;
+    font-size: 17px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.one-1{
+width: 100%;
+height: 30px;
+background-color: #2183B8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.two-2{
+width: 100%;
+height: 70%;
+}
+.three-3{
+width: 40%;
+height: 40%;
+font-size: 10px;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: baseline;
+}
+.four-4{
+    width: 100%;
+    height: 40%;
+    font-size: 10px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 50px;
+}

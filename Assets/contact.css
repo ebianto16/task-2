@@ -1,0 +1,397 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: "Volkhov", serif;
+  }
+.with{
+    width: 100%;
+    height: 25px;
+    background-color: #40A8E4;
+    display: flex;  
+    justify-content: center; 
+    align-items: center; 
+}
+.hit{
+    width: 30%;
+    font-size: 12px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.bit{
+width: 70%;
+font-size: 12px;
+color: white;
+display: flex;
+justify-content: end;
+align-items:center;
+gap: 10px;
+}
+.family{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.husband img{
+    width: 40%;
+    height: 100px;
+}
+.husband{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    width: 30%;
+    height: 20%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 20px;
+}
+.icons:hover{
+    color:black;
+}
+li a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+ul{
+    width: 100%;
+    height: 80px;
+    font-size: 16px;
+    font-weight: 700px;
+    color: #BCB5B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.zulu{
+    width: 100%;
+    height: 20px;
+    background-color: #2388C2;
+}
+.yoga{
+    width: 100%;
+    height: 250px;  
+    display: flex; 
+    justify-content: center;
+    position: relative;
+}
+.yaki{
+    width: 25%;
+    height: 250px;
+    background-color: #379CD6;
+    color: #FFFFFF;
+    position: absolute;
+    top: -10px;
+}
+.papa{
+    width: 80%;
+    height: 80%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.body{
+    width: 80%;
+    height: 25%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+.h3{
+    width: 80%;
+    height: 25%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.pa{
+    width: 60%;
+    height: 25%;
+    font-size: 15px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.father{
+    width: 100%;
+    height: 120vh;
+    display: flex;
+}
+.mother{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.son{
+    width: 80%;
+    height: 90%;
+}
+.pop{
+    font-size: 15px;
+}
+.h5{
+    width: 100%;
+    height: 10%;
+    font-size: 30px;
+}
+.dog{
+    width: 100%;
+    height: 425px;  
+}
+.pig{
+    display: flex;
+    gap: 10px;
+}
+.name{
+    width: 50%;
+    height: 50px;
+    font-size: 18px;
+  
+}
+.email{
+    width: 50%;
+    height: 50px;
+    font-size: 18px
+}
+.kutty{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Diagnostic{
+    width: 99.5%;
+    height: 50px;
+    font-size: 18px;
+}
+.data{
+    width: 99.5%;
+    height: 50px;
+    font-size: 18px;
+}
+.sub{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    width: 99.5%;
+    height: 50px;
+    font-size: 18px;
+}
+.pic{
+    width: 99.5%;
+    height: 150px;
+    font-size: 18px;
+
+}
+.bu{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.mit{
+    width: 40%;
+    height: 50px;
+    background-color: #40A8E4;
+    color: #FFFFFF;
+    font-size: 18px;
+    
+}
+.na{
+    width: 49%;
+    height: 100%;
+}
+.ma{
+    width: 49%;
+    height: 100%;
+}
+.yellow{
+    width: 50%;
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue{
+    width: 80%;
+    height: 90%;
+}
+.ye{
+    font-size: 15px;
+}
+.ll{
+    font-size: 18px;
+    color: #40A8E6;
+}
+.ow{
+    font-size: 18px;
+}
+.red{
+    width: 50%;
+    height: 60px;
+    font-size: 18px;
+    color: #40A8E6;
+    display: flex;
+    justify-content: baseline;
+    align-items: end;
+}
+.pur{
+    font-size: 18px; 
+}
+.ple{
+    width: 85%;
+    height: 150px;
+    font-size: 17px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.bla{
+    width: 80%;
+    height: 150px;
+    display: flex;
+    gap: 30px;
+}
+.black{
+    width: 25px;
+    height: 140px;
+    background-color: #40A8E4;
+}
+.ck{
+    font-size: 20.3px;
+    color: #91919F;
+}
+.white{
+    width: 85%;
+    height: 100px;
+    font-size: 18px;
+}
+.intel{
+    width: 100%;
+    height: 250px;
+    background-color:#2388C2 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.core{
+    width: 80%;
+    height: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.geforce{
+    width: 90%;
+    height: 80%;
+}
+.inside{
+    width: 100%;
+    height: 2px;
+    background-color: #FFFFFF;
+}
+.dia{
+    width: 100%;
+    height: 60%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i5{
+    width: 70%;
+    height: 50%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i4{
+    width: 50%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.i1{
+    width: 100%;
+    height: 15%;
+    font-size: 15px;
+    color: #FFFFFF; 
+}
+.i3{
+    width: 70%;
+    height: 70%;
+    font-size: 15px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.i2{
+    width: 60%;
+    height: 20%;
+    color: #FFFFFF;
+    font-size: 17px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.one-1{
+width: 100%;
+height: 30px;
+background-color: #2183B8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.two-2{
+width: 100%;
+height: 70%;
+}
+.three-3{
+width: 40%;
+height: 40%;
+font-size: 10px;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: baseline;
+}
+.four-4{
+    width: 100%;
+    height: 40%;
+    font-size: 10px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    gap: 50px;
+}
